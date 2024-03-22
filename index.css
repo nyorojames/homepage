@@ -1,0 +1,38 @@
+body {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600px;
+  font-style: normal;
+  font-size: 20px;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 0;
+  background-image: url("images/nairobi skyline.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  text-align: center;
+  color: whitesmoke;
+  padding-top: 50px;
+}
+
+#title,
+#title-description {
+  text-shadow: 0 0 2px black;
+}
+
+.Nairobi-activities {
+  font-size: 36px;
+}
+
+.activity-img {
+  width: 600px;
+}
+
+.activities {
+  background: #fefae0;
+  padding: 10px;
+  margin: 0;
+}
